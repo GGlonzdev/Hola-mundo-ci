@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Enviar notificación
-        run: curl -d "¡Código subido a main!" ntfy.sh/devops-itla
+        run: curl -d "¡Código subido! 🚀 Proyecto Hola Mundo simple" ntfy.sh/devops-itla
 
